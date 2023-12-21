@@ -32,11 +32,15 @@ Working Experience
   * Fanap ICT 
   * Supervisor: Ali Salehi
 
-Publications
-------
+Preprints
+-------
 * [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)
   * Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, Hakim Sidahmed
+* [Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238.pdf)
+  * Eriq Augustine, Pegah Jandaghi, Alon Albalak, Connor Pryor, Charles Dickens, William Wang, Lise Getoor
 
+Publications
+------
 * [Identifying Quantifiably Verifiable Statements from Text](https://aclanthology.org/2023.matching-1.2.pdf)
   * Pegah Jandaghi, Jay Pujara
   * In Proceedings of the First Workshop on Matching From Unstructured and Structured Data (MATCHING 2023)
