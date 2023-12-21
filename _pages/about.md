@@ -13,10 +13,10 @@ I work on Conversational System, Transfer Learning and Large Language Models.
 
 Education
 ------
-* B.Sc in Computer Engineering, Sharif University of Technology, 2017
-* B.Sc in Mathematics and Applications, Sharif University of Technology, 2017
-* M.S. in Computer Science, University of Southern California, 2019
 * Ph.D. in Computer Science, University of Southern California, 2025 (expected)
+* M.S. in Computer Science, University of Southern California, 2019
+* B.Sc. in Computer Engineering, Sharif University of Technology, 2017
+* B.Sc. in Mathematics and Applications, Sharif University of Technology, 2017
 
 Working Experience
 ------
@@ -25,10 +25,35 @@ Working Experience
   * Supervisor: Hakim Sidahmed
 
 * Fall 2017 - Spring 2019: Student Researcher
-  * Center on Knowledge Graphs (ISI/ISI)
+  * Center on Knowledge Graphs (USC/ISI)
   * Supervisor: Jay Pujara
 
 * Summer 2016: Summer Intern
   * Fanap ICT 
   * Supervisor: Ali Salehi
 
+Publications
+------
+
+* [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)
+  * Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, Hakim Sidahmed
+
+* [Identifying Quantifiably Verifiable Statements from Text](https://aclanthology.org/2023.matching-1.2.pdf)
+  * Pegah Jandaghi, Jay Pujara
+  * In Proceedings of the First Workshop on Matching From Unstructured and Structured Data (MATCHING 2023)
+
+* [Reflect, Not Reflex: Inference-Based Common Ground Improves Dialogue Response Quality](https://aclanthology.org/2022.emnlp-main.714.pdf)
+  * Pei Zhou, Hyundong Cho, Pegah Jandaghi, Dong-Ho Lee, Bill Yuchen Lin, Jay Pujara, Xiang Ren
+  * In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing
+
+* [FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue](https://aclanthology.org/2022.emnlp-main.751.pdf)
+  * Alon Albalak, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang' 
+  * In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing
+
+* [Probing Commonsense Explanation in Dialogue Response Generation](https://aclanthology.org/2021.findings-emnlp.349.pdf)
+  * Pei Zhou, Pegah Jandaghi, Hyundong Cho, Bill Yuchen Lin, Jay Pujara, Xiang Ren
+  * In Findings of the Association for Computational Linguistics: EMNLP 2021
+
+* [QANet: Tensor Decomposition Approach for Query-Based Anomaly Detection in Heterogeneous Information Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8488508&tag=1)
+  * Vahid Ranjbar, Mostafa Salehi, Pegah Jandaghi, Mahdi Jalili.
+  * In IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
