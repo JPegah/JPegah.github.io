@@ -9,7 +9,7 @@ redirect_from:
 
 I am Pegah Jandaghi. I am a fifth year PhD student in Computer Science at University of Southern California. 
 I am advised by prof [Jay Pujara](https://www.jaypujara.org/), and I am a member of [JAUNTS lab](https://www.jauntslab.org/index.html). 
-I work on Conversational System, Transfer Learning and Large Language Models.
+I work on Dialog Systems, Transfer Learning and Large Language Models.
 
 Education
 ------
@@ -34,7 +34,6 @@ Working Experience
 
 Publications
 ------
-
 * [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)
   * Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, Hakim Sidahmed
 
