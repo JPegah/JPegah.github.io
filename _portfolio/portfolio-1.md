@@ -1,4 +1,5 @@
 ---
-title: "Under Construction"
+title: ""
 collection: portfolio
 ---
+Under Construction...
