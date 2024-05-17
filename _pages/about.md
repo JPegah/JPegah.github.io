@@ -34,13 +34,18 @@ Working Experience
 
 Preprints
 -------
-* [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)
-  * Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, Hakim Sidahmed
+* [T-Measure: A Measure for Model Transferability]()
+  * Pegah Jandaghi, Pei Zhou, Alon Albalak, Jay Pujara
+
 * [Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238.pdf)
   * Eriq Augustine, Pegah Jandaghi, Alon Albalak, Connor Pryor, Charles Dickens, William Wang, Lise Getoor
 
 Publications
 ------
+* [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)
+  * Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, Hakim Sidahmed 
+  * In Findings of the Association for Computational Linguistics: ACL 2024
+  
 * [Identifying Quantifiably Verifiable Statements from Text](https://aclanthology.org/2023.matching-1.2.pdf)
   * Pegah Jandaghi, Jay Pujara
   * In Proceedings of the First Workshop on Matching From Unstructured and Structured Data (MATCHING 2023)

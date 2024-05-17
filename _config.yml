@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pegah Jandaghi's Homepage"
 title_separator          : "-"
 name                     : &name "Pegah Jandaghi"
-description              : &description "PhD Student in Computer Science"
+description              : &description "PhD Candidate in Computer Science"
 url                      : https://JPegah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JPegah/JPegah.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pegah-jandaghi-19a87489/"
+  linkedin         : "pegah-jandaghi-19a87489/"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-#  teaching:
-#    output: true
-#    permalink: /:collection/:path/
-#  publications:
-#    output: true
-#    permalink: /:collection/:path/
+  teaching:
+    output: false
+    permalink: /:collection/:path/
+  publications:
+    output: false
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
+  talks:
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
