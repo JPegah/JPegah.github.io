@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Pegah Jandaghi, a final-year PhD student in Computer Science at the University of Southern California. 
+I’m Pegah Jandaghi, a final-year PhD candidate in Computer Science at the University of Southern California. 
 I’m advised by Prof. [Jay Pujara](https://www.jaypujara.org/) and work as part of the [JAUNTS lab](https://www.jauntslab.org/index.html). 
 I also collaborate closely with [Robin Jia](https://robinjia.github.io/).
 
@@ -24,48 +24,45 @@ Education
 
 Working Experience
 ------
-* Fall 2022 - Spring 2023: Graduate Student Researcher
-  ** Google Research
-  ** Supervisor: Hakim Sidahmed
+* Fall 2022 - Spring 2023: Graduate Student Researcher @ Google Research
+  * Supervisor: Hakim Sidahmed
 
-* Fall 2017 - Spring 2019: Student Researcher
-  ** Center on Knowledge Graphs (USC/ISI)
-  ** Supervisor: Jay Pujara
+* Fall 2017 - Spring 2019: Student Researcher @ Center on Knowledge Graphs (USC/ISI)
+  * Supervisor: Jay Pujara
 
-* Summer 2016: Summer Intern
-  ** Fanap ICT 
-  ** Supervisor: Ali Salehi
+* Summer 2016: Summer Intern @ Fanap ICT 
+  * Supervisor: Ali Salehi
 
 Preprints
 -------
 * [T-Measure: A Measure for Model Transferability]()
-  * Pegah Jandaghi, Pei Zhou, Alon Albalak, Jay Pujara
+  * P Jandaghi, P Zhou, A Albalak, J Pujara
 
 * [Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238.pdf)
-  * Eriq Augustine, Pegah Jandaghi, Alon Albalak, Connor Pryor, Charles Dickens, William Wang, Lise Getoor
+  * E Augustine, P Jandaghi, A Albalak, C Pryor, C Dickens, W Wang, L Getoor
 
 Publications
 ------
 * [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)
-  * Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, Hakim Sidahmed 
+  * P Jandaghi, X Sheng, X Bai, J Pujara, H Sidahmed 
   * In Findings of the Association for Computational Linguistics: ACL 2024
   
 * [Identifying Quantifiably Verifiable Statements from Text](https://aclanthology.org/2023.matching-1.2.pdf)
-  * Pegah Jandaghi, Jay Pujara
+  * P Jandaghi, J Pujara
   * In Proceedings of the First Workshop on Matching From Unstructured and Structured Data (MATCHING 2023)
 
 * [Reflect, Not Reflex: Inference-Based Common Ground Improves Dialogue Response Quality](https://aclanthology.org/2022.emnlp-main.714.pdf)
-  * Pei Zhou, Hyundong Cho, Pegah Jandaghi, Dong-Ho Lee, Bill Yuchen Lin, Jay Pujara, Xiang Ren
+  * P Zhou, H Cho, P Jandaghi, DH Lee, B Lin, J Pujara, X Ren
   * In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing
 
 * [FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue](https://aclanthology.org/2022.emnlp-main.751.pdf)
-  * Alon Albalak, Yi-Lin Tuan, Pegah Jandaghi, Connor Pryor, Luke Yoffe, Deepak Ramachandran, Lise Getoor, Jay Pujara, William Yang Wang' 
+  * Alon Albalak, YL Tuan, P Jandaghi, C Pryor, L Yoffe, D Ramachandran, L Getoor, J Pujara, W Yang Wang' 
   * In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing
 
 * [Probing Commonsense Explanation in Dialogue Response Generation](https://aclanthology.org/2021.findings-emnlp.349.pdf)
-  * Pei Zhou, Pegah Jandaghi, Hyundong Cho, Bill Yuchen Lin, Jay Pujara, Xiang Ren
+  * P Zhou, P Jandaghi, H Cho, B Lin, J Pujara, X Ren
   * In Findings of the Association for Computational Linguistics: EMNLP 2021
 
 * [QANet: Tensor Decomposition Approach for Query-Based Anomaly Detection in Heterogeneous Information Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8488508&tag=1)
-  * Vahid Ranjbar, Mostafa Salehi, Pegah Jandaghi, Mahdi Jalili.
-  * In IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+  * V Ranjbar, M Salehi, P Jandaghi, M Jalili.
+  * In IEEE Transactions on Knowledge and Data Engineering
