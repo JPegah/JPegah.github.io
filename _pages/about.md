@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Pegah Jandaghi. I am a fifth year PhD student in Computer Science at University of Southern California. 
-I am advised by prof [Jay Pujara](https://www.jaypujara.org/), and I am a member of [JAUNTS lab](https://www.jauntslab.org/index.html). 
-I work on Dialog Systems, Transfer Learning and Large Language Models.
+I’m Pegah Jandaghi, a final-year PhD student in Computer Science at the University of Southern California. 
+I’m advised by Prof. [Jay Pujara](https://www.jaypujara.org/) and work as part of the [JAUNTS lab](https://www.jauntslab.org/index.html). 
+I also collaborate closely with [Robin Jia](https://robinjia.github.io/).
+
+My research focuses on Transfer Learning, Dialog Systems, and Large Language Models (LLMs). 
+I’m particularly interested in making LLMs more personalized, specialized, and accessible—especially for non-experts.
+I’m passionate about advancing techniques that help adapt and evaluate LLMs effectively across domains, enabling broader accessibility and usability for diverse applications.
 
 Education
 ------
@@ -21,16 +25,16 @@ Education
 Working Experience
 ------
 * Fall 2022 - Spring 2023: Graduate Student Researcher
-  * Google Research
-  * Supervisor: Hakim Sidahmed
+  ** Google Research
+  ** Supervisor: Hakim Sidahmed
 
 * Fall 2017 - Spring 2019: Student Researcher
-  * Center on Knowledge Graphs (USC/ISI)
-  * Supervisor: Jay Pujara
+  ** Center on Knowledge Graphs (USC/ISI)
+  ** Supervisor: Jay Pujara
 
 * Summer 2016: Summer Intern
-  * Fanap ICT 
-  * Supervisor: Ali Salehi
+  ** Fanap ICT 
+  ** Supervisor: Ali Salehi
 
 Preprints
 -------
