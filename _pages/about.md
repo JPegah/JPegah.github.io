@@ -35,11 +35,11 @@ Working Experience
 
 Preprints
 -------
-* [T-Measure: A Measure for Model Transferability]()
-  * P Jandaghi, P Zhou, A Albalak, J Pujara
+[T-Measure: A Measure for Model Transferability]()
+P Jandaghi, P Zhou, A Albalak, J Pujara
 
-* [Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238.pdf)
-  * E Augustine, P Jandaghi, A Albalak, C Pryor, C Dickens, W Wang, L Getoor
+[Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238.pdf)
+E Augustine, P Jandaghi, A Albalak, C Pryor, C Dickens, W Wang, L Getoor
 
 Publications
 ------
