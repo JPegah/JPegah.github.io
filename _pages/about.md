@@ -24,45 +24,60 @@ Education
 
 Working Experience
 ------
-* Fall 2022 - Spring 2023: Graduate Student Researcher @ Google Research
-  * Supervisor: Hakim Sidahmed
+* Fall 2022 - Spring 2023: Graduate Student Researcher @ Google Research<br>
+  Supervisor: Hakim Sidahmed
 
-* Fall 2017 - Spring 2019: Student Researcher @ Center on Knowledge Graphs (USC/ISI)
-  * Supervisor: Jay Pujara
+* Fall 2017 - Spring 2019: Student Researcher @ Center on Knowledge Graphs (USC/ISI) <br>
+  Supervisor: Jay Pujara
 
-* Summer 2016: Summer Intern @ Fanap ICT 
-  * Supervisor: Ali Salehi
+* Summer 2016: Summer Intern @ Fanap ICT  <br>
+  Supervisor: Ali Salehi
 
 Preprints
 -------
-[T-Measure: A Measure for Model Transferability]()
+* [T-Measure: A Measure for Model Transferability]()<br>
 P Jandaghi, P Zhou, A Albalak, J Pujara
 
-[Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238.pdf)
+* [Emotion Recognition in Conversation using Probabilistic Soft Logic](https://arxiv.org/abs/2207.07238.pdf)<br>
 E Augustine, P Jandaghi, A Albalak, C Pryor, C Dickens, W Wang, L Getoor
 
-Publications
+Selected Publications
 ------
-* [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)
-  * P Jandaghi, X Sheng, X Bai, J Pujara, H Sidahmed 
-  * In Findings of the Association for Computational Linguistics: ACL 2024
+* [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)<br>
+  P Jandaghi, X Sheng, X Bai, J Pujara, H Sidahmed <br>
+  In Findings of the Association for Computational Linguistics: ACL 2024
   
 * [Identifying Quantifiably Verifiable Statements from Text](https://aclanthology.org/2023.matching-1.2.pdf)
-  * P Jandaghi, J Pujara
-  * In Proceedings of the First Workshop on Matching From Unstructured and Structured Data (MATCHING 2023)
+  P Jandaghi, J Pujara <br>
+  In Proceedings of the First Workshop on Matching From Unstructured and Structured Data (MATCHING 2023)
 
-* [Reflect, Not Reflex: Inference-Based Common Ground Improves Dialogue Response Quality](https://aclanthology.org/2022.emnlp-main.714.pdf)
-  * P Zhou, H Cho, P Jandaghi, DH Lee, B Lin, J Pujara, X Ren
-  * In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing
+* [Reflect, Not Reflex: Inference-Based Common Ground Improves Dialogue Response Quality](https://aclanthology.org/2022.emnlp-main.714.pdf)<br>
+  P Zhou, H Cho, P Jandaghi, DH Lee, B Lin, J Pujara, X Ren <br>
+  In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing
 
-* [FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue](https://aclanthology.org/2022.emnlp-main.751.pdf)
-  * Alon Albalak, YL Tuan, P Jandaghi, C Pryor, L Yoffe, D Ramachandran, L Getoor, J Pujara, W Yang Wang' 
-  * In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing
+* [FETA: A Benchmark for Few-Sample Task Transfer in Open-Domain Dialogue](https://aclanthology.org/2022.emnlp-main.751.pdf) <br>
+  A Albalak, YL Tuan, P Jandaghi, C Pryor, L Yoffe, D Ramachandran, L Getoor, J Pujara, W Wang <br>
+  In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing
 
-* [Probing Commonsense Explanation in Dialogue Response Generation](https://aclanthology.org/2021.findings-emnlp.349.pdf)
-  * P Zhou, P Jandaghi, H Cho, B Lin, J Pujara, X Ren
-  * In Findings of the Association for Computational Linguistics: EMNLP 2021
+* [Probing Commonsense Explanation in Dialogue Response Generation](https://aclanthology.org/2021.findings-emnlp.349.pdf) <br>
+  P Zhou, P Jandaghi, H Cho, B Lin, J Pujara, X Ren <br>
+  In Findings of the Association for Computational Linguistics: EMNLP 2021
 
-* [QANet: Tensor Decomposition Approach for Query-Based Anomaly Detection in Heterogeneous Information Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8488508&tag=1)
-  * V Ranjbar, M Salehi, P Jandaghi, M Jalili.
-  * In IEEE Transactions on Knowledge and Data Engineering
+* [QANet: Tensor Decomposition Approach for Query-Based Anomaly Detection in Heterogeneous Information Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8488508&tag=1) <br>
+  V Ranjbar, M Salehi, P Jandaghi, M Jalili <br>
+  In IEEE Transactions on Knowledge and Data Engineering
+
+Teaching and Services
+------
+* Teaching Assistant for CSCI 270: Introduction to Algorithms and Theory of Computing, USC, Fall 2023, Spring 2025
+* Teaching Assistant for CSCI 103: Introduction to Programming, USC, Fall 2024,
+* Teaching Assitant for CSCI 170: Discrete Methods in Computer Science, USC, Spring 2024
+* Teaching Assistant for CS 570: Analysis of Algorithms, USC, Fall 2022, Winter 2023
+
+ 
+
+<hr>
+
+* Reviewer for KDD 2024, AAAI 2023
+
+* USC Women in Science and Engineering (WiSE) PhD mentor 2023-2024
