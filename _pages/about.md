@@ -55,7 +55,7 @@ Selected Publications
   P Jandaghi, X Sheng, X Bai, J Pujara, H Sidahmed <br>
   In Findings of the Association for Computational Linguistics: ACL 2024
   
-* [Identifying Quantifiably Verifiable Statements from Text](https://aclanthology.org/2023.matching-1.2.pdf)
+* [Identifying Quantifiably Verifiable Statements from Text](https://aclanthology.org/2023.matching-1.2.pdf)<br>
   P Jandaghi, J Pujara <br>
   In Proceedings of the First Workshop on Matching From Unstructured and Structured Data (MATCHING@ ACL 2023)
 
