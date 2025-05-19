@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pegah Jandaghi's Homepage"
+title                    : "Pegah Jandaghi"
 title_separator          : "-"
 name                     : &name "Pegah Jandaghi"
 description              : &description "PhD Candidate in Computer Science"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Pegah Jandaghi"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Computer Science"
-  location         :
+  bio              : "PhD Candidate in Computer Science"
+  location         : "University of Southern California"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=QI-eVvkAAAAJ&hl=en"

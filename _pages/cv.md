@@ -6,54 +6,47 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, University of Southern California, 2026 (expected)
+* M.S. in Computer Science, University of Southern California, 2019
+* B.Sc. in Computer Engineering, Sharif University of Technology, 2017
+* B.Sc. in Mathematics and Applications, Sharif University of Technology, 2017
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graduate Student Researcher @ Google Research, Fall 2022 - Spring 2023<br>
+  * Supervisor: Hakim Sidahmed
+
+* Student Researcher @ Center on Knowledge Graphs (USC/ISI), Fall 2017 - Spring 2019 <br>
+  * Supervisor: Jay Pujara
+
+* Summer Intern @ Fanap ICT, Summer 2016  <br>
+  * Supervisor: Ali Salehi
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant for CSCI 270: Introduction to Algorithms and Theory of Computing, USC, Fall 2023, Spring 2025
+* Teaching Assistant for CSCI 103: Introduction to Programming, USC, Fall 2024,
+* Teaching Assitant for CSCI 170: Discrete Methods in Computer Science, USC, Spring 2024
+* Teaching Assistant for CS 570: Analysis of Algorithms, USC, Fall 2022, Spring 2023
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for KDD 2024, AAAI 2023
+* USC Women in Science and Engineering (WiSE) PhD mentor 2023-2024

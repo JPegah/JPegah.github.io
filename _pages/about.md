@@ -15,14 +15,11 @@ My research focuses on Transfer Learning, Dialog Systems, and Large Language Mod
 I’m particularly interested in making LLMs more personalized, specialized, and accessible—especially for non-experts.
 I’m passionate about advancing techniques that help adapt and evaluate LLMs effectively across domains, enabling broader accessibility and usability for diverse applications.
 
-Education
+News 
 ------
-* Ph.D. in Computer Science, University of Southern California, 2025 (expected)
-* M.S. in Computer Science, University of Southern California, 2019
-* B.Sc. in Computer Engineering, Sharif University of Technology, 2017
-* B.Sc. in Mathematics and Applications, Sharif University of Technology, 2017
 
-Working Experience
+
+Work Experience
 ------
 * Graduate Student Researcher @ Google Research, Fall 2022 - Spring 2023<br>
   Supervisor: Hakim Sidahmed
@@ -75,16 +72,3 @@ Selected Publications
   V Ranjbar, M Salehi, P Jandaghi, M Jalili <br>
   In IEEE Transactions on Knowledge and Data Engineering
 
-Teaching and Services
-------
-* Teaching Assistant for CSCI 270: Introduction to Algorithms and Theory of Computing, USC, Fall 2023, Spring 2025
-* Teaching Assistant for CSCI 103: Introduction to Programming, USC, Fall 2024,
-* Teaching Assitant for CSCI 170: Discrete Methods in Computer Science, USC, Spring 2024
-* Teaching Assistant for CS 570: Analysis of Algorithms, USC, Fall 2022, Spring 2023
-
- 
-
-<hr>
-
-* Reviewer for KDD 2024, AAAI 2023
-* USC Women in Science and Engineering (WiSE) PhD mentor 2023-2024
