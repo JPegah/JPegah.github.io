@@ -1,6 +1,7 @@
 ---
 title: "Faithful Persona-based Conversational Dataset Generation with Large Language Models"
 collection: publications
+category: Conferences
 paperurl: 'https://aclanthology.org/2024.findings-acl.904/'
 citation: 'Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, Hakim Sidahmed'
 ---

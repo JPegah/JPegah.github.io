@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pegah Jandaghi"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Pegah Jandaghi"
 description              : &description "PhD Candidate in Computer Science"
