@@ -28,9 +28,6 @@ Work Experience
 * Summer Intern @ Fanap ICT, Summer 2016  <br>
   * Supervisor: Ali Salehi
 
-
-Publications
-======
   
 Teaching
 ======
