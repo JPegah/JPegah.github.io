@@ -83,8 +83,8 @@ author:
   name             : "Pegah Jandaghi"
   avatar           : "profile.jpg"
   bio              : "PhD Candidate in Computer Science"
-  location         : "University of Southern California"
-  employer         :
+  location         : "Los Angeles, California"
+  employer         : "University of Southern California"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=QI-eVvkAAAAJ&hl=en"
   email            :
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _cv
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
