@@ -15,7 +15,8 @@ I also collaborate closely with [Robin Jia](https://robinjia.github.io/).
 My research focuses on Transfer Learning, Dialog Systems, and Large Language Models (LLMs). 
 I’m particularly interested in making LLMs more personalized, specialized, and accessible—especially for non-experts.
 I’m passionate about advancing techniques that help adapt and evaluate LLMs effectively across domains, enabling broader accessibility and usability for diverse applications.
-In my work, I apply these methods to help other scientists in practical settings such as:
+
+[//]: # (In my work, I apply these methods to help other scientists in practical settings such as:)
 
 [//]: # (* Code assistants & debugging, where I tailor models to understand and fix real-world programming errors)
 
