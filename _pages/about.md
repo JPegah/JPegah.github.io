@@ -44,11 +44,12 @@ Work Experience
 
 Selected Publications
 ------
-* [A Systematic Analysis of Base Model Choice for Reward Modeling]()<br>
+* [A Systematic Analysis of Base Model Choice for Reward Modeling](https://arxiv.org/abs/2505.10775)<br>
 K Ahrabian, P Jandaghi, N Mokhberian, P Karimireddy, J Pujara
 
-* [T-Measure: A Measure for Model Transferability]()<br>
-P Jandaghi, P Zhou, A Albalak, J Pujara
+[//]: # (* [T-Measure: A Measure for Model Transferability]&#40;&#41;<br>)
+
+[//]: # (P Jandaghi, P Zhou, A Albalak, J Pujara)
 
 * [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)<br>
   P Jandaghi, X Sheng, X Bai, J Pujara, H Sidahmed <br>
