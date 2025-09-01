@@ -18,7 +18,9 @@ Education
 
 Work Experience
 ======
-
+* Research Intern @ Microsoft (Office of Applied Research and Microsoft Research), Summer 2025
+  * Supervisor: Bahar Sarrafzadeh
+  
 * Graduate Student Researcher @ Google Research, Fall 2022 - Spring 2023<br>
   * Supervisor: Hakim Sidahmed
 
