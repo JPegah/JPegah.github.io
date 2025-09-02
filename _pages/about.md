@@ -46,7 +46,7 @@ Work Experience
 Selected Publications
 ------
 * [A Systematic Analysis of Base Model Choice for Reward Modeling](https://arxiv.org/abs/2505.10775)<br>
-  K Ahrabian, P Jandaghi, N Mokhberian, P Karimireddy, J Pujara
+  K Ahrabian, P Jandaghi, N Mokhberian, P Karimireddy, J Pujara <br>
   In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
 
 [//]: # (* [T-Measure: A Measure for Model Transferability]&#40;&#41;<br>)

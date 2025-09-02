@@ -21,7 +21,7 @@ E Augustine, P Jandaghi, A Albalak, C Pryor, C Dickens, W Wang, L Getoor
 Conference Papers
 --------
 * [A Systematic Analysis of Base Model Choice for Reward Modeling](https://arxiv.org/abs/2505.10775)<br>
-  K Ahrabian, P Jandaghi, N Mokhberian, P Karimireddy, J Pujara
+  K Ahrabian, P Jandaghi, N Mokhberian, P Karimireddy, J Pujara <br>
   In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing
 
 * [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/abs/2312.10007.pdf)<br>
@@ -51,7 +51,7 @@ Journal Articles
 Workshop Papers
 --------
 * [The Fault in Our LLM Leaderboards](https://openreview.net/pdf?id=kVrKQ83PPo)<br>
-  P Jandaghi, K Ahrabian
+  P Jandaghi, K Ahrabian <br>
   4th Workshop on Practical Deep Learning (Practical-DL 2025): Toward Robust Compressed Foundation Models in the Real World
 
 * [Trim My View: An LLM-Based Code Query System for Module Retrieval in Robotic Firmware](https://arxiv.org/pdf/2503.03969)<br>
